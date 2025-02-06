@@ -51,6 +51,7 @@ const isPerfect = (val) => {
 
 // isArmstrong number function
 const isArmstrong = (val) => {
+    val = Math.abs(val);
     let sum = 0;
     const numberString = val.toString();
     const numberOfDigits = numberString.length;
@@ -76,6 +77,7 @@ const isEven = (val) => {
 
 // digitSum number function
 const digitSum = (value) => {
+    value = Math.abs(value);
     return value.toString().split("")
     .reduce((sum, digit) => 
     sum + parseInt(digit), 0);
