@@ -119,7 +119,7 @@ app.get('/api/classify-number', async (req, res) => {
 
 
     // input validator
-    /^-?[1-9]\d*$/.test(num) ? 
+    /^-?[1-9]\.?\d*$/.test(num) ? 
     res.json(
         {
         "number": num,
