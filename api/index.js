@@ -117,7 +117,7 @@ app.get('/api/classify-number', async (req, res) => {
 
 
     // input validator
-    /^[0-9]\d*$/.test(num) ? 
+    /^-?[1-9]\d*$/.test(num) ? 
     res.json(
         {
         "number": num,
@@ -129,7 +129,7 @@ app.get('/api/classify-number', async (req, res) => {
         }) : 
     res.status(400).json(
         {
-            "number": "alphabeth",
+            "number": req.query.number,
             "error": true
         }
 )
