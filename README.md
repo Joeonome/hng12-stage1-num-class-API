@@ -1,10 +1,10 @@
-# num-class-API
+# Number Classification API
 
-(API endpoint: (https://num-class-api.vercel.app/api/classify-number?number=371))
+(API endpoint: <https://num-class-api.vercel.app/api/classify-number?number=371>)
 
 Description:
   An API that takes a number and returns interesting mathematical properties about it, along with a fun fact.
-  (https://github.com/Joeonome/hng12-stage1-num-class-API.git)
+  (<https://github.com/Joeonome/hng12-stage1-num-class-API.git>)
 
   
 
@@ -16,7 +16,7 @@ How to Setup:
   - use API testing platforms like postman to verify other details like status code, response time, etc
 
 
-Endpoint URL = (https://num-class-api.vercel.app/api/classify-number)
+Endpoint URL = <https://num-class-api.vercel.app/api/classify-number>
 
 Request/response format = JSON
 
@@ -28,7 +28,7 @@ Example usage:
 Define the API URL
 
   ```
-const apiUrl = '[https://simple-api-41uu.vercel.app](https://num-class-api.vercel.app/api/classify-number?number=371)';
+const apiUrl = 'https://num-class-api.vercel.app/api/classify-number?number=371';
 
 ```
 
@@ -65,16 +65,16 @@ JSON response:
 Contact: 
 
     email: joseph.onumeguolor@gmail.com
-    repo-url: https://https://github.com/Joeonome/
+    repo-url: <https://https://github.com/Joeonome>
     
 Server:
 
-    url: https://vercel.com/
+    url: <https://vercel.com/>
     
 Tags:
 
-    name: simpleAPI
+    name: num-class-API
     
     description: Returns an e-mail, date_time & git repo in json format
 
-HNG: https://hng.tech/hire/nodejs-developers
+HNG: <https://hng.tech/hire/nodejs-developers>
