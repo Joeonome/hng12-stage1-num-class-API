@@ -21,6 +21,7 @@ Endpoint URL = <https://num-class-api.vercel.app/api/classify-number>
 Request/response format = JSON
 
 Response code = 200
+
 Response code = 400 (Bad Request)
 
 Example usage: 
