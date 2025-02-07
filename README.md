@@ -4,12 +4,12 @@
 
 Description:
   An API that takes a number and returns interesting mathematical properties about it, along with a fun fact.
-  (https://github.com/Joeonome/num-class-API)
+  (https://github.com/Joeonome/hng12-stage1-num-class-API.git)
 
   
 
 How to Setup:
-  - clone repo with command: "git clone https://github.com/Joeonome/num-class-API" to your desired directory
+  - clone repo with command: "git clone <https://github.com/Joeonome/hng12-stage1-num-class-API.git> to your desired directory
   - install the necessary dependencies
   - run "node ." in terminal
   - go to "http://localhost:8080/" to check that app is runnung
@@ -65,7 +65,7 @@ JSON response:
 Contact: 
 
     email: joseph.onumeguolor@gmail.com
-    repo-url:[ https://https://github.com/Joeonome/
+    repo-url: https://https://github.com/Joeonome/
     
 Server:
 
