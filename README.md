@@ -75,6 +75,6 @@ Tags:
 
     name: num-class-API
     
-    description: Returns an e-mail, date_time & git repo in json format
+    description: An API that takes a number and returns interesting mathematical properties about it, along with a fun fact.
 
 HNG: <https://hng.tech/hire/nodejs-developers>
